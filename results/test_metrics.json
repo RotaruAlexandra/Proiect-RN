@@ -1,0 +1,6 @@
+{
+    "Arhitectura": "MLP_Baseline",
+    "Acuratete_Test": 0.8333333333333334,
+    "F1_Score_Macro": 0.8205741626794258,
+    "Latenta_ms": 1.1622095108032227
+}

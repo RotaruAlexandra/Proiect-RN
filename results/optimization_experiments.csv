@@ -1,0 +1,3 @@
+Arhitectura,Acuratete_Test,F1_Score_Macro,Latenta_ms,Numar_Parametri
+CNN_Principal,0.838888889,0.838709677,2.71463871,2192132
+MLP_Baseline,0.833333333,0.820574163,1.162209511,6294020

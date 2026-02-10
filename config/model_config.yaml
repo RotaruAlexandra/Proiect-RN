@@ -1,0 +1,6 @@
+model_info:
+  architecture: "SimpleCNN"
+  input_shape: [3, 64, 64]
+  num_classes: 4
+  version: "1.0.0"
+  onnx_export: true

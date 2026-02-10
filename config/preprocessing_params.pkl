@@ -1,0 +1,7 @@
+Target Size: (64, 64)
+
+Mean: 0.5
+
+Std: 0.5
+
+Color Mode: RGB

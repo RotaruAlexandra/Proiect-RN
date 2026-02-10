@@ -1,0 +1,32 @@
+# --- Python temporaries ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# --- Data & Dataset (Excludem datele brute/procesate masive) ---
+# Lăsăm doar structura, nu și miile de imagini
+data/raw/*
+data/processed/*
+data/train/*
+data/test/*
+data/validation/*
+!data/**/.gitkeep
+
+# --- Models & Results ---
+# Excludem checkpoint-urile temporare, lăsăm doar cele finale (opțional)
+# *.pt
+# *.onnx
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs & Performance ---
+results/attendance_log.csv
